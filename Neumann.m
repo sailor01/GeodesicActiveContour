@@ -1,12 +1,11 @@
 % This MATLAB code is made as part of the course project for 
-% COMP 558 - Fundamentals of Computer Vision at McGill University, Canada
+% COMP 765 - Advanced Topics (Mobile Robotics) at McGill University, Canada
 % It demonstrates the calculation of the Neumann boundary term for the
 % level set evolution
 %
-% Authors: Srushti Dhope (srushti.dhope@mail.mcgill.ca)
-%          Sricharana Rajagopal (sricharana.rajagopal@mail.mcgill.ca)
+% Author: Srushti Dhope (srushti.dhope@mail.mcgill.ca)
 %
-% Date: April 25th, 2013
+% Date: April 29th, 2013
 
 function [ g ] = Neumann( phi )
 
