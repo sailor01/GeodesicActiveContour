@@ -1,4 +1,5 @@
-% This MATLAB code demonstrates the geodesic active contour model using distance regularized level sets for object tracking in videos
+% This MATLAB code demonstrates the geodesic active contour model using distance regularized 
+% level sets for object tracking in videos
 
 function [ ] = GeodesicActiveContour( )
 
