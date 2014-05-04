@@ -1,10 +1,4 @@
-% This MATLAB code is made as part of the course project for 
-% COMP 765 - Advanced Topics (Mobile Robotics) at McGill University, Canada
-% It demonstrates the level set evolution for object tracking in videos
-%
-% Author: Srushti Dhope (srushti.dhope@mail.mcgill.ca)
-%
-% Date: April 29th, 2013
+% This MATLAB code demonstrates the level set evolution for object tracking in videos
 
 function [ phi ] = evolveLS( frame, phi, G, beta, alpha, lambda, epsilon, timestep, iterin )
 
